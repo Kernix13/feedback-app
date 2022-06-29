@@ -35,7 +35,7 @@ header {
 .card {
   background-color: #fff;
   color: #333;
-  border-radius: 15px;
+  border-radius: 1rem;
   padding: 40px 50px;
   margin: 20px 0;
   position: relative;
@@ -43,7 +43,7 @@ header {
 
 .card.reverse {
   background-color: rgba(0, 0, 0, 0.4);
-  color: #fff;
+  color: #ffffff;
 }
 
 .card h2 {
